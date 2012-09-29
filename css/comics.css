@@ -1,0 +1,37 @@
+div.head {margin-top: 30px}
+div.a {align: left; margin-left: 60px}
+div.p1 {font-family: courier new; font-size: 10pt; margin-left:70px; margin-right:70px}
+div.menu {float: right; margin-top: 27%}
+
+div.contenttitle {margin-top: 30px; margin-left: 60px}
+div.contents {float: left; margin-left: 40px}
+div.p2 {clear: both; font-family: courier new; font-size: 10pt; margin-right:50px; margin-left:70px}
+div.contentmenu {float: right; margin-top: 5.5%}
+
+div.brainstorm {margin-top: 30px}
+div.brainmenu {float: right; margin-bottom: 15%}
+div.p3 {clear: both; font-family: courier new; font-size: 10pt; margin-right:50px; margin-left:70px}
+
+a.a1 {border-style: none; border-width: 0px; background-colour: #DCDCDC}
+a.a1:link {text-decoration: none; color: #006400}
+a.a1:hover {text-decoration: none; color: #FFD700}
+a.a1:active {text-decoration: #006400}
+a.a1:visited {text-decoration: none; color: #228B22}
+a.a1:hover {text-decoration: none; color: #FFD700}
+
+div.timelinemenu {float: right; margin-bottom: 15%}
+
+div.win {clear: both; font-family: courier new; font-size: 10pt; margin-right:20px; margin-left:20px}
+
+div.p4 {clear: both; font-family: courier new; font-size: 10pt; margin-right:50px; margin-left:70px}
+
+div.p5 {clear: both; float: left; font-family: courier new; font-size: 10pt; text-align: justify; margin-right:40px; margin-left:35px}
+div.p6 {clear: both; font-family: courier new; font-size: 10pt; text-align: justify; margin-right:70px; margin-left:70px}
+div.side {float: right; position: relative; margin-right:35px}
+div.sub {clear: both; margin-right: 70px; margin-left: 70px}
+
+div.dent {clear: both; font-family: courier new; font-size: 10pt; text-align: justify; margin-right:70px; margin-left:70px}
+
+div.p7 {clear: both; font-family: courier new; font-size: 10pt; text-align: justify; margin-right:70px; margin-left:70px}
+
+div.p8 {clear: both; font-family: courier new; font-size: 10pt; text-align: justify; margin-right:70px; margin-left:70px}
